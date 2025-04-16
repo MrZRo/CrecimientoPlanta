@@ -23,6 +23,24 @@ Proyecto de investigación que aplica métodos de análisis numérico para model
 3. Analizar datos experimentales (luz, agua, pH) almacenados en Excel.
 4. Predecir patrones de crecimiento bajo distintas condiciones.
 
+## ![enter image description here](https://img.icons8.com/?size=40&id=c2AXPLZ3iVEU&format=png&color=000000)Rutas
+.
+├── data/                   # Datos brutos y procesados
+│   ├── raw/               │   │   ├── experimento_1.xlsx
+│   │   └── experimento_2.xlsx
+│   └── processed/         # Datos limpios para análisis
+│       └── datos_filtrados.csv
+├── notebooks/             # Jupyter/Colab notebooks
+│   └── analisis_exploratorio.ipynb
+├── src/                   # Código Python
+│   ├── modelos/          │   │   ├── euler_method.py
+│   │   └── regresion_polinomial.py
+│   └── visualizacion/
+│       └── graficos_matplotlib.py
+├── docs/                  # Documentación adicional
+│   └── referencias.pdf
+└── README.md              # Este archivo
+
 ## 📊 Metodología
 ```mermaid
 graph TD
