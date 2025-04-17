@@ -1,8 +1,20 @@
 import numpy as np
 
 # Datos del crecimiento de la palmera cocotera (Días vs Altura en cm)
-x_days = np.array([0, 15, 30, 45, 60, 75])  # Días
-y_height_cm = np.array([0, 12, 28, 47, 70, 96])  # Altura en cm
+x_days = np.array([7, 21, 35, 49, 63, 77, 91])  # Días
+y_height_cm = np.array([5, 12, 30, 46, 60, 74, 91])  # Altura en cm
+# -------------------------
+# Datos del crecimiento de la palmera cocotera (Días vs Altura en cm)
+#x_days = np.array([7, 21, 35, 49, 63, 77, 91])  # Días
+#y_height_cm = np.array([5, 12, 30, 46, 60, 74, 91])  # Altura en cm
+# -------------------------
+# Datos del crecimiento de la palmera cocotera (Días vs Altura en cm)
+#x_days = np.array([7, 21, 35, 49, 63, 77, 91])  # Días
+#y_height_cm = np.array([5, 12, 30, 46, 60, 74, 91])  # Altura en cm
+# -------------------------
+# Datos del crecimiento de la palmera cocotera (Días vs Altura en cm)
+#x_days = np.array([7, 21, 35, 49, 63, 77, 91])  # Días
+#y_height_cm = np.array([5, 12, 30, 46, 60, 74, 91])  # Altura en cm
 
 # -------------------------
 # FUNCIONES DE NEWTON
