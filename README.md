@@ -4,7 +4,12 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/Licencia-MIT-green)
 
-Proyecto de investigación que aplica métodos de análisis numérico para modelar y predecir el crecimiento de plantas en diferentes condiciones ambientales.
+Este repositorio contiene los códigos, hojas de cálculo y resultados obtenidos al modelar y predecir el crecimiento de plantas en distintos días usando métodos numéricos como:
+- Método de Newton (interpolación por diferencias divididas)
+- Interpolación de Lagrange
+- Interpolación por Spline cúbico
+- Regresión lineal
+
 
 ## 📌 Integrantes
 * Aguilar Morejón Camila Madeleine
@@ -28,7 +33,8 @@ Proyecto de investigación que aplica métodos de análisis numérico para model
 1. Modelar matemáticamente el crecimiento de plantas usando ecuaciones diferenciales.
 2. Implementar algoritmos numéricos (ej. regresión lineal, métodos Newton, Splime y Lagrange) en Python.
 3. Analizar datos experimentales (dias y crecimiento de cm.) almacenados en Excel.
-4. Dar un analisis en un informe.
+4. Evaluar y comparar la precisión de distintos métodos numéricos para estimar el crecimiento de diferentes plantas en días intermedios a partir de datos reales o simulados.
+5. Dar un analisis en un informe.
 
 ## ![enter image description here](https://img.icons8.com/?size=40&id=c2AXPLZ3iVEU&format=png&color=000000)Rutas
 .
