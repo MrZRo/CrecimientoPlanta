@@ -20,39 +20,45 @@ Este repositorio contiene los códigos, hojas de cálculo y resultados obtenidos
 
 ## 🎯 Objetivos
 1. Modelar matemáticamente el crecimiento de plantas usando ecuaciones diferenciales.
-2. Implementar algoritmos numéricos (ej. regresión lineal, métodos Newton, Splime y Lagrange) en Python.
+2. Implementar algoritmos numéricos (ej. regresión lineal, métodos Newton, Spline y Lagrange) en Python.
 3. Analizar datos experimentales (dias y crecimiento de cm.) almacenados en Excel.
 4. Evaluar y comparar la precisión de distintos métodos numéricos para estimar el crecimiento de diferentes plantas en días intermedios a partir de datos reales o simulados.
 5. Dar un analisis en un informe.
 
 ## ![enter image description here](https://img.icons8.com/?size=40&id=c2AXPLZ3iVEU&format=png&color=000000)Rutas
 
+Aca se encuentre el orden de las rutas de los archivos que almacenan los programas(en python), las hojas calculo y los informes de cada una de las plantas:
 
 ```
 .
-├── data/                   # Datos brutos y procesados
-│   ├── raw/               │   │   ├── experimento_1.xlsx
-│   │   └── experimento_2.xlsx
-│   └── processed/         # Datos limpios para análisis
-│       └── datos_filtrados.csv
-├── notebooks/             # Jupyter/Colab notebooks
-│   └── analisis_exploratorio.ipynb
-├── src/                   # Código Python
-│   ├── modelos/          │   │   ├── euler_method.py
-│   │   └── regresion_polinomial.py
-│   └── visualizacion/
-│       └── graficos_matplotlib.py
-├── docs/                  # Documentación adicional
-│   └── referencias.pdf
+├── Archivo Programas/           # Código Python
+│   ├── Análisis de Crecimiento de Tulipanes.py             
+│   │   
+│   └── Lagrange.py       
+│   │
+│   └── Newton.py
+│   │
+│   └── RegresiónLinealSimple.py
+│   │
+│   └── Spline.py
+├── Archivos Excel/             # Archivos de Excel
+│   └── PalmeraCocotera.xlsx
+│   │
+│   └── PaulowniaTomentosa.xlsx
+│   │
+│   └── Tulipan .xlsx
+├── Informes Plantas/           # Informes de plantas
+│   ├── Informe Diente de León.pdf        
+│   │  
+│   └── PalmeraCocotera.pdf
+│   │
+│   └── Paulowniatomentosa.pdf
+│   │
+│   └── Tulipanes.pdf
 └── README.md              # Este archivo
 
 ```
 
-## 📊 Metodología
-```mermaid
-graph TD
-    A[Datos Experimentales] --> B(Preprocesamiento en Pandas)
-    B --> C[Modelado Matemático]
-    C --> D{Análisis Numérico}
-    D --> E[Visualización]
-    D --> F[Predicciones]
+## ![enter image description here](https://img.icons8.com/?size=40&id=114331&format=png&color=000000) Video demostracion de programas y excel
+
+Para ver el video de demostracion del como funcionan los programas y documentos excel da [click aqui](https://markdownlivepreview.com/).
