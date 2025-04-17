@@ -11,23 +11,12 @@ Este repositorio contiene los códigos, hojas de cálculo y resultados obtenidos
 - Regresión lineal
 
 
-## 📌 Integrantes
+## ![enter image description here](https://img.icons8.com/?size=40&id=KICzEAXp0VMR&format=png&color=000000) Integrantes
 * Aguilar Morejón Camila Madeleine (Paulownia tomentosa)
 * Aruquipa Coca Jose Andres (Diente de León)
 * Zabala Lazo Evians Reyna (Tulipan)
 * Zeballos Romero Daniel Alfredo (La Palmera Cocotera)
 
-
-## 📌 Tabla de Contenidos
-- [Objetivos](#objetivos)
-- [Metodología](#metodología)
-- [Estructura del Repositorio](#estructura-del-repositorio)
-- [Herramientas Utilizadas](#herramientas-utilizadas)
-- [Resultados Preliminares](#resultados-preliminares)
-- [Cómo Usar este Repositorio](#cómo-usar-este-repositorio)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Referencias](#referencias)
 
 ## 🎯 Objetivos
 1. Modelar matemáticamente el crecimiento de plantas usando ecuaciones diferenciales.
@@ -37,6 +26,9 @@ Este repositorio contiene los códigos, hojas de cálculo y resultados obtenidos
 5. Dar un analisis en un informe.
 
 ## ![enter image description here](https://img.icons8.com/?size=40&id=c2AXPLZ3iVEU&format=png&color=000000)Rutas
+
+
+```
 .
 ├── data/                   # Datos brutos y procesados
 │   ├── raw/               │   │   ├── experimento_1.xlsx
@@ -53,6 +45,8 @@ Este repositorio contiene los códigos, hojas de cálculo y resultados obtenidos
 ├── docs/                  # Documentación adicional
 │   └── referencias.pdf
 └── README.md              # Este archivo
+
+```
 
 ## 📊 Metodología
 ```mermaid
