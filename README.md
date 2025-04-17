@@ -16,8 +16,8 @@ Este repositorio contiene los códigos, hojas de cálculo y resultados obtenidos
 * Aruquipa Coca Jose Andres (Diente de León)
 * Zabala Lazo Evians Reyna (Tulipan)
 * Zeballos Romero Daniel Alfredo (La Palmera Cocotera)
-🎥 Link del Video: https://youtu.be/pulqNXYZows?si=dhJBqiR7rFpjzJS8
-  
+*🎥 Link del Video: https://youtu.be/pulqNXYZows?si=dhJBqiR7rFpjzJS8 
+
 
 
 ## 🎯 Objetivos
