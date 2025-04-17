@@ -6,6 +6,13 @@
 
 Proyecto de investigación que aplica métodos de análisis numérico para modelar y predecir el crecimiento de plantas en diferentes condiciones ambientales.
 
+## 📌 Integrantes
+* Aguilar Morejón Camila Madeleine
+* Aruquipa Coca Jose Andres
+* Zabala Lazo Evians Reyna
+* Zeballos Romero Daniel Alfredo
+
+
 ## 📌 Tabla de Contenidos
 - [Objetivos](#objetivos)
 - [Metodología](#metodología)
