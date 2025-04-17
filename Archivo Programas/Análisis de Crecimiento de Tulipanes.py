@@ -1,4 +1,4 @@
-Código Python para Análisis de Crecimiento de Tulipanes 🌷
+Código Python para Análisis de Crecimiento de Tulipanes con los metodos, newton, lagrange, spline y regresion lineal 🌷
 
 import numpy as np
 from scipy.interpolate import lagrange, CubicSpline
