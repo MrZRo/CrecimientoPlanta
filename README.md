@@ -26,9 +26,9 @@ Proyecto de investigación que aplica métodos de análisis numérico para model
 
 ## 🎯 Objetivos
 1. Modelar matemáticamente el crecimiento de plantas usando ecuaciones diferenciales.
-2. Implementar algoritmos numéricos (ej. regresión lineal, métodos de Euler/Runge-Kutta) en Python.
-3. Analizar datos experimentales (luz, agua, pH) almacenados en Excel.
-4. Predecir patrones de crecimiento bajo distintas condiciones.
+2. Implementar algoritmos numéricos (ej. regresión lineal, métodos Newton, Splime y Lagrange) en Python.
+3. Analizar datos experimentales (dias y crecimiento de cm.) almacenados en Excel.
+4. Dar un analisis en un informe.
 
 ## ![enter image description here](https://img.icons8.com/?size=40&id=c2AXPLZ3iVEU&format=png&color=000000)Rutas
 .
