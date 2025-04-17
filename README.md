@@ -63,5 +63,6 @@ Aca se encuentre el orden de las rutas de los archivos que almacenan los program
 
 ## ![enter image description here](https://img.icons8.com/?size=40&id=114331&format=png&color=000000) Video demostracion de programas y excel
 
-Para ver el video de demostracion del como funcionan los programas y documentos excel da [click aqui]([https://markdownlivepreview.com/](https://youtu.be/pulqNXYZows?si=dhJBqiR7rFpjzJS8 
-)).
+Para ver el video de demostracion del como funcionan los programas y documentos excel:
+🎥 https://youtu.be/pulqNXYZows?si=dhJBqiR7rFpjzJS8 
+
