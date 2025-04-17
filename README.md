@@ -12,10 +12,10 @@ Este repositorio contiene los códigos, hojas de cálculo y resultados obtenidos
 
 
 ## 📌 Integrantes
-* Aguilar Morejón Camila Madeleine
-* Aruquipa Coca Jose Andres
-* Zabala Lazo Evians Reyna
-* Zeballos Romero Daniel Alfredo
+* Aguilar Morejón Camila Madeleine (Paulownia tomentosa)
+* Aruquipa Coca Jose Andres (Diente de León)
+* Zabala Lazo Evians Reyna (Tulipan)
+* Zeballos Romero Daniel Alfredo (La Palmera Cocotera)
 
 
 ## 📌 Tabla de Contenidos
